@@ -1,0 +1,29 @@
+
+Below WorkFlow that we follow in this project Step By Step 
+
+YouTube Playlist
+      │
+      ▼
+Download Videos
+      │
+      ▼
+Extract Audio
+      │
+      ▼
+Speech-to-Text (Whisper)
+      │
+      ▼
+Clean Text
+      │
+      ▼
+Chunking
+      │
+      ▼
+Embeddings
+      │
+      ▼
+Vector Database (FAISS/ChromaDB)
+      │
+      ▼
+LLM / RAG Chatbot (Respose from LLM )
+
